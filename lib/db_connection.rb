@@ -37,7 +37,7 @@ class DBConnection
   end
 
   def self.execute2(*args)
-    puts args[0]
+    #puts args[0]
 
     instance.execute2(*args)
   end
