@@ -1,1 +1,2 @@
-# active_record_lite
+# LTMapper
+Custom ORM for Ruby
